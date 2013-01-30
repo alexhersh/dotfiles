@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 def notify( title, msg )
-  notifier = File.join "/", "Users", "nathanl", ".dotfiles", "apps",
+  notifier = File.join "/", "Users", "AlexHersh", ".dotfiles", "apps",
   "terminal-notifier.app", "Contents", "MacOS", "terminal-notifier"
   system "#{notifier} -title \"#{title}\" -message \"#{msg}\""
 end
