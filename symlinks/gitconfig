@@ -29,8 +29,8 @@
 [help]
   autocorrect = 1
 [user]
-  email = nathanlil13@me.com
-  name = Nathan Lilienthal
+  email = hersh.a@husky.neu.edu
+  name = Alex Hersh
 [branch]
   autosetuprebase = always
 [difftool "Kaleidoscope"]
